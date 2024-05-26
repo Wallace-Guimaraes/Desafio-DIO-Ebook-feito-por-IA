@@ -52,7 +52,7 @@ Bing Iamge Creator：
     />
     <p>&nbsp&nbsp&nbspWallace Guimarães<br>
     &nbsp&nbsp&nbsp
-    <a href="">
+    <a href="https://github.com/Wallace-Guimaraes">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/wallace-guimar%C3%A3es-0bb287283/">LinkedIn</a>
 &nbsp;|&nbsp;</p>
