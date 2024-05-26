@@ -1,5 +1,5 @@
 
-# Projeto EBOOK Gerado por I.A.s
+# Desafio Projeto EBOOK Gerado por I.A
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
@@ -27,7 +27,7 @@ ChatGPT：
 | conteúdo | faça um breve texto sobre seletores CSS ,e nunca repita a introdução |
 
 
-Bing Iamge Creator：
+Bing Image Creator：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -42,15 +42,15 @@ Bing Iamge Creator：
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
-##  Autor
+## 👨‍💻 Autor
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src=""
+      src="https://avatars.githubusercontent.com/u/140450548?v=4"
     />
-    <p>&nbsp&nbsp&nbspWallace Guimarães<br>
+    <p>&nbsp&nbsp&nbspWallace Guimarães<br><br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Wallace-Guimaraes">
     GitHub</a>&nbsp;|&nbsp;
